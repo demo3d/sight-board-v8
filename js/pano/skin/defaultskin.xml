@@ -1,0 +1,36 @@
+<krpano>
+	<!-- krpano 1.16.2 default buttons skin -->
+
+	<progress showload="bar()" showwait="none" />
+
+	<events name="defaultbuttons" keep="true" devices="desktop" onxmlcomplete="setuppano();"/>
+        
+	<!-- right-click context menu to change the viewing settings -->
+	<contextmenu>
+		<item caption="FULLSCREEN" />
+       	</contextmenu>
+
+	<!-- actions to change the mouse cursor -->
+	<action name="qtvrcursor">
+		set(plugin[btn_dragmode].visible, true);
+		set(plugin[btn_movemode].visible, false);
+		set(control.mousetype, moveto);
+		set(cursors.url, %SWFPATH%/skin/qtvr-cursors.png);
+		set(cursors.type, 8way);
+		set(cursors.move,       0|0|16|16);
+		set(cursors.drag,      16|0|16|16);
+		set(cursors.arrow_u,   32|0|16|16);
+		set(cursors.arrow_d,   48|0|16|16);
+		set(cursors.arrow_l,   64|0|16|16);
+		set(cursors.arrow_r,   80|0|16|16);
+		set(cursors.arrow_lu,  96|0|16|16);
+		set(cursors.arrow_ru, 112|0|16|16);
+		set(cursors.arrow_rd, 128|0|16|16);
+		set(cursors.arrow_ld, 144|0|16|16);
+	</action>
+
+	<action name="setuppano">
+		qtvrcursor();
+	</action>
+
+</krpano>

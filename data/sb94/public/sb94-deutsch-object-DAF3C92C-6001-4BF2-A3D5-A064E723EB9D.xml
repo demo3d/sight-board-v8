@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<o table="87" id="DAF3C92C-6001-4BF2-A3D5-A064E723EB9D" language="deutsch" timestamp="2014-06-06 16:22:57">
+<id table="1" name="inf_description">
+<i id="A489ADC6-341D-5311-3E17-629817D8D308" title="accadis Hochschule Bad Homburg" ac="1" so="1" us="always" o="DAF3C92C-6001-4BF2-A3D5-A064E723EB9D" pic1="accadis_hochschule.jpg" pic1_width="360" pic1_height="240" pic1b_width="0" pic1b_height="0" pic2_width="0" pic2_height="0" pic2b_width="0" pic2b_height="0" pic3_width="0" pic3_height="0" pic3b_width="0" pic3b_height="0" pic4_width="0" pic4_height="0" pic4b_width="0" pic4b_height="0">
+<text1><![CDATA[Die accadis Hochschule Bad Homburg begann 1990 als erste Hochschule in Deutschland mit einem Bachelor-Studiengang für Business Administration. Heute bietet sie mehrere, teils deutschlandweit einzigartige Bachelor-und Master-Studiengänge an. Das Studium an der Bad Homburger Bildungsinstitution ist nicht nur praxisnah, sondern dank Partneruniversitäten auf vier Kontinenten auch international angelegt.]]></text1>
+<text2><![CDATA[]]></text2>
+<text3><![CDATA[]]></text3>
+<text4><![CDATA[]]></text4>
+</i>
+</id>
+<id table="3" name="inf_contact">
+<i id="9DE4535D-E136-58A4-BFEB-53B5F3D7D9F2" ti="Kontakt" ac="1" so="999" us="always" o="DAF3C92C-6001-4BF2-A3D5-A064E723EB9D" fn="Gerda Meinl-Kexel" comp="accadis Bildung GmbH" p1="06172 9842-0" fax="06172 9842-20                   " mail="g.meinl@accadis.com" url="http://www.accadis.com" a3="Du Pont-Straße 4" a5="61352 Bad Homburg " pic_width="0" pic_height="0">
+<openinghours><![CDATA[]]></openinghours>
+<contactinfo><![CDATA[]]></contactinfo>
+<description><![CDATA[]]></description>
+</i>
+</id>
+</o>

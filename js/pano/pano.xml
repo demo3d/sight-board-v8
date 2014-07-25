@@ -1,0 +1,4 @@
+<krpano version="1.16" onstart="js(panoReady())">
+        <include url="skin/defaultskin.xml" />                                                                                                                                          
+        <textstyle name="SIGHTBOARD" font="Arial" fontsize="12" border="false" background="false" textcolor="0xFFFFFF" effect="glow(0x000000,0.7,4,2);dropshadow(2,45,0x000000,3,1);" />
+</krpano>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<o table="87" id="01CBB3FF-6F50-0E8B-9D71-B34A56295594" language="deutsch" timestamp="2014-06-06 16:22:57">
+<id table="2" name="inf_address">
+<i id="EA318029-3B8F-8F91-B712-FDA2A609F889" ti="Adresse der Liegenschaft" ac="1" so="0" us="always" o="01CBB3FF-6F50-0E8B-9D71-B34A56295594" a3="Du Pont-Straße 6" a5="61352 Bad Homburg vor der Höhe" siteplan_width="0" siteplan_height="0" siteplanb_width="0" siteplanb_height="0">
+<directions><![CDATA[]]></directions>
+</i>
+</id>
+<id table="1" name="inf_description">
+<i id="C87A30FD-78F2-0D37-4C00-BBA8A11C16F2" title="Du Pont-Straße 6" ac="1" so="0" us="always" o="01CBB3FF-6F50-0E8B-9D71-B34A56295594" pic1_width="0" pic1_height="0" pic1b_width="0" pic1b_height="0" pic2_width="0" pic2_height="0" pic2b_width="0" pic2b_height="0" pic3_width="0" pic3_height="0" pic3b_width="0" pic3b_height="0" pic4_width="0" pic4_height="0" pic4b_width="0" pic4b_height="0">
+<text1><![CDATA[In diesem Bürogebäude sind verschiedene Beratungsunternehmen ansässig.]]></text1>
+<text2><![CDATA[]]></text2>
+<text3><![CDATA[]]></text3>
+<text4><![CDATA[]]></text4>
+</i>
+</id>
+</o>

@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<sb id="94" name="Bad Homburg" v="v7" s="14500" t="2000" logo="badhomburg" auto="" xfunc="badhomburg" lang="deutsch" startlang="deutsch" de="1" en="0" ir="0" rsb="0" mtr="manual" mtx="manual" bg="" set="langsam,mittel,schnell,slow,medium,fast" fd="" fe="" sc="14510" scr="" webv="" tt="" anim="1">
+<settobjlistsort>name</settobjlistsort>
+<settobjlistfilter>all</settobjlistfilter>
+<settingshasbookmarklist/>
+<ruleremoveparentobjects/>
+<ruleremovecurrentmodelobject/>
+<ruleremoveifcenteroutside/>
+<ruleremoveifdifferentstate/>
+<ruleremoveifparentonscreen/>
+<ruleremoveaboveparent/>
+<ruleremoveifoutsidebreadcrumb/>
+<hasvideohighcd/>
+<hasvideomedcd/>
+<hasvideolowcd/>
+<hasvideomedweb/>
+<hasvideolowweb/>
+<hasvideomedapp/>
+<videodefaultcd>high</videodefaultcd>
+<videodefaultweb>med</videodefaultweb>
+<videodefaultapp>med</videodefaultapp>
+<ui>2</ui>
+<ui_alpha>100</ui_alpha>
+<ui_brightness>30</ui_brightness>
+<ui_colorbg>0x333333</ui_colorbg>
+<ui_colorfg>0x666666</ui_colorfg>
+<ui_colorhf>0x666666</ui_colorhf>
+<ui_colormenu>0x333333</ui_colormenu>
+<ui_colorlogobg>0xFFFFFF</ui_colorlogobg>
+<ui_colorbuttons>0x3042AD</ui_colorbuttons>
+<ui_colorflightbuttons>0x99133C</ui_colorflightbuttons>
+<ui_coloroutline>0xFFFFFF</ui_coloroutline>
+<ui_colortext>0xFFFFFF</ui_colortext>
+<ui_colortextselected>0xFFFFFF</ui_colortextselected>
+<ui_colortextlink>0xFF6600</ui_colortextlink>
+<ui_colortextlinkover>0xFF6600</ui_colortextlinkover>
+<ui_colortextoutside>0xFFFFFF</ui_colortextoutside>
+<ui_colortextline>0x666666</ui_colortextline>
+<ui_colorframeoutline>0x828282</ui_colorframeoutline>
+<ui_colorframefill>0x000000</ui_colorframefill>
+<ui_colorsbsymbol>0xaaaaaa</ui_colorsbsymbol>
+<ui_colorsbhighlight>0x555555</ui_colorsbhighlight>
+<ui_colorsbborder>0x333333</ui_colorsbborder>
+<ui_colorsbshadow>0x333333</ui_colorsbshadow>
+<ui_colorsbscrolltrack>0x444444</ui_colorsbscrolltrack>
+<menu tag="0" object="B510A717-FF53-6819-71A2-BAA66E45653E" info="" url="" camera="0" name="SÜDCAMPUS Bad Homburg" type="bookmarkList" icon="favourite" sortorder="500" indent="1" />
+<menu tag="0" object="93646AD6-30BF-E26C-A1D4-B903EC683BA1" info="" url="" camera="0" name="Büro- und Gewerbepark Mitte" type="bookmarkList" icon="favourite" sortorder="300" indent="1" />
+<menu tag="0" object="04809B3E-E58E-8BC4-8531-64DFE9CF0D03" info="" url="" camera="0" name="Lokschuppen" type="bookmarkList" icon="flight" sortorder="310" indent="2" />
+<menu tag="0" object="7F0A126F-2893-59CA-83E6-C70804AB53D9" info="" url="" camera="0" name="Hochtaunus-Klinik" type="bookmarkList" icon="favourite" sortorder="400" indent="1" />
+<menu tag="0" object="CF171043-8B60-1CDD-2614-2443B9F5B1E9" info="" url="" camera="0" name="Stadt Bad Homburg v. d. Höhe" type="bookmarkList" icon="favourite" sortorder="100" indent="0" />
+<menu tag="0" object="E876BE00-2DC5-2535-F749-32C0CDA859A3" info="" url="" camera="0" name="Amadeus" type="bookmarkList" icon="flight" sortorder="360" indent="2" />
+<menu tag="0" object="72C5E4BF-84DC-8DFE-A610-E36EE144C05E" info="" url="" camera="0" name="Horex-Museum" type="bookmarkList" icon="flight" sortorder="340" indent="2" />
+<menu tag="0" object="895D8638-6518-78B1-4B11-F1874A000F5A" info="" url="" camera="0" name="Stadtentrée" type="bookmarkList" icon="favourite" sortorder="200" indent="1" />
+<menu tag="2000" object="" info="" url="" camera="0" name="Entwicklungsflächen" type="tagList" icon="favourite" sortorder="3" indent="0" />
+<menu tag="0" object="A2B3ED44-C99E-C48C-4C0C-5BFE882A07FA" info="" url="" camera="0" name="Dimension Data" type="bookmarkList" icon="flight" sortorder="320" indent="2" />
+<menu tag="0" object="CB08E951-0484-57FF-A100-E15E15CB12B9" info="" url="" camera="0" name="Parkhaus" type="bookmarkList" icon="flight" sortorder="350" indent="2" />
+<menu tag="0" object="EE06CAE0-1133-EC20-12EA-038FA8B91B21" info="" url="" camera="0" name="Bahnhofsvorplatz" type="bookmarkList" icon="flight" sortorder="210" indent="2" />
+<menu tag="0" object="F349AF21-F8B2-20E5-A969-3247A6060DEC" info="" url="" camera="0" name="Bahnhof" type="bookmarkList" icon="flight" sortorder="220" indent="2" />
+<menu tag="0" object="1B38430A-7A45-3033-5B24-B8C6C96D4CF8" info="" url="" camera="0" name="Bahnhofsplatz Süd" type="bookmarkList" icon="flight" sortorder="330" indent="2" />
+<menu tag="0" object="9696971E-8FDC-56C2-E9ED-55DF3F2F66D7" info="" url="" camera="14566" name="Marienbader Höfe" type="bookmarkList" icon="flight" sortorder="230" indent="2" />
+<menu tag="0" object="582AEEFD-B543-D99E-D17C-03E1FBEC7A8B" info="" url="" camera="0" name="Forum Medicus" type="bookmarkList" icon="flight" sortorder="325" indent="2" />
+<tg id="2000" name="Stadtentwicklung" type="main" next="0" prev="0" st="12" sort="NAME" sortorder="0" olsort="" olfilter="" sc="1" sp="1" sic="0" sowc="0" ab="1" hy="0">
+<synonym></synonym>
+<o id="93646AD6-30BF-E26C-A1D4-B903EC683BA1" />
+<o id="793BDA44-8EA9-D655-0D4C-50A848287558" />
+<o id="A26729E0-4198-6E25-8648-E6A2243904BD" />
+<o id="B510A717-FF53-6819-71A2-BAA66E45653E" />
+<o id="1B38430A-7A45-3033-5B24-B8C6C96D4CF8" />
+<o id="B71D141C-9EFD-DA8E-4E0B-3D8C11329094" />
+<o id="8B822A7D-7D08-DCC5-C44C-AD5AF61FA6BB" />
+<o id="419445B4-2578-786B-7960-4ECA86EA75CF" />
+<o id="22E6FC18-25C7-679B-150D-ADE72E84FEBD" />
+<o id="F349AF21-F8B2-20E5-A969-3247A6060DEC" />
+<o id="E876BE00-2DC5-2535-F749-32C0CDA859A3" />
+<o id="F8AE5BB9-173C-6C88-2D0E-F46BDF8EAC8D" />
+<o id="DA772225-C986-F31C-9D53-063E496ADB8A" />
+<o id="895D8638-6518-78B1-4B11-F1874A000F5A" />
+<o id="04809B3E-E58E-8BC4-8531-64DFE9CF0D03" />
+<o id="D991D565-C49D-804C-3817-426F6A7B381B" />
+<o id="47349A5A-4582-757F-7E66-D95F0F45AB1F" />
+<o id="0E3ED252-9E5F-4321-4041-3BC5BCB61ECD" />
+<o id="251499CE-4934-280C-4C13-DD11FF0C5F2D" />
+<o id="DA96E9FA-9F5C-2C72-63CC-B9DFAB9D6107" />
+<o id="371FFAE7-A07C-176F-AFB5-E8FA8ACED790" />
+<o id="01CBB3FF-6F50-0E8B-9D71-B34A56295594" />
+<o id="E87B6B2C-050B-D8E9-59A7-F6D7630E53E2" />
+<o id="7F7996E1-7DA1-46FD-DAFD-6B1E3EF5E7A7" />
+<o id="13A28640-F68C-BD04-545D-262856DB208B" />
+<o id="582AEEFD-B543-D99E-D17C-03E1FBEC7A8B" />
+<o id="DAF3C92C-6001-4BF2-A3D5-A064E723EB9D" />
+<o id="FA02E39D-68BD-B5D7-2F2A-C789BA8D221E" />
+<o id="1315E441-E6EA-9B8E-6F5A-F11843935706" />
+<o id="2B7ABCE7-6CDC-E47E-BF89-5BDD7B3F55D6" />
+<o id="6C46B2B0-D468-B5A9-B9DB-49A3898720D4" />
+<o id="CF171043-8B60-1CDD-2614-2443B9F5B1E9" />
+<o id="72C5E4BF-84DC-8DFE-A610-E36EE144C05E" />
+<o id="A2B3ED44-C99E-C48C-4C0C-5BFE882A07FA" />
+<o id="CB08E951-0484-57FF-A100-E15E15CB12B9" />
+<o id="EE06CAE0-1133-EC20-12EA-038FA8B91B21" />
+<o id="7F0A126F-2893-59CA-83E6-C70804AB53D9" />
+<o id="9696971E-8FDC-56C2-E9ED-55DF3F2F66D7" />
+</tg>
+<s id="100" name="Region FrankfurtRheinMain" logo="frm-united" url="http://www.sight-board.de/frm/" cont="0F3DD143-35A3-6A8B-7706-55C663F209D7" impr="6830DEE6-5EE8-BECA-984E-169407E137EA" />
+<s id="222" name="Hochtaunuskreis" />
+<s id="14500" name="Stadt Bad Homburg vor der Höhe" logo="badhomburg" cont="E4AB753C-DF8D-1D8B-9488-082F8B9242AB" impr="A65A7757-AE95-E54E-F7ED-85A36545CB5D" />
+<s id="14510" name="Stadt Bad Homburg vor der Höhe (Inhalte)" logo="badhomburg" cont="E4AB753C-DF8D-1D8B-9488-082F8B9242AB" impr="A65A7757-AE95-E54E-F7ED-85A36545CB5D" />
+<s id="14580" name="SÜDCAMPUS Bad Homburg" logo="badhomburg" />
+<s id="14590" name="Hochtaunuskliniken Bad Homburg" cont="264D48D3-4F6F-2744-7B29-A9835A18DBAE" impr="D7237D11-5B54-7F97-BE15-C5E300935350" />
+<c id="222" par="129" next="0" prev="0" o="95352CC6-FABA-F83D-FE0E-402108E2F3E8" mn="" so="0" t="" lx="0" ly="0" mf="0" pano="0" appr="1" no="0" htr="1" htx="1" igml="0" fc="0" hn="0" as="0" asao="0" px="3464654.9" py="5559518.2" pz="27232.7" tx="3466167" ty="5571254.9" tz="-5695.63">
+<ov ov="2" so="2" sm="1" enf="0" file="" tag="0" />
+<ov ov="43" so="3" sm="1" enf="0" file="" tag="0" />
+<hs link="14590" x="3472812.75" y="5564089.77" z="178.00" />
+<hs link="15120" x="3466623.64" y="5578680.77" z="322.60" />
+</c>
+<c id="14500" par="222" next="0" prev="0" o="CF171043-8B60-1CDD-2614-2443B9F5B1E9" mn="" so="0" t="" lx="0" ly="0" mf="0" pano="0" appr="1" no="0" htr="1" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="3478789.9" py="5562382.5" pz="5733.57" tx="3474424" ty="5565668.3" tz="-92.86">
+<ov ov="2" so="1" sm="1" enf="0" file="" tag="0" />
+<ov ov="43" so="2" sm="1" enf="0" file="" tag="0" />
+<hs link="14590" x="3472812.75" y="5564089.77" z="178.00" />
+</c>
+<c id="14510" par="14500" next="0" prev="0" o="DA96E9FA-9F5C-2C72-63CC-B9DFAB9D6107" mn="" so="0" t="" lx="0" ly="0" mf="0" pano="0" appr="1" no="0" htr="1" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="3474175.3" py="5562674.3" pz="2317.75" tx="3473738.3" ty="5564944" tz="-76.57">
+<ov ov="2" so="1" sm="1" enf="0" file="" tag="0" />
+<hs link="14590" x="3472812.75" y="5564089.77" z="178.00" />
+</c>
+<c id="14511" par="14500" next="0" prev="0" o="6DB845B1-7F86-4609-8DCD-6A1E7FBE5E47" mn="" so="0" t="" lx="0" ly="0" mf="0" pano="0" appr="1" no="0" htr="1" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="3470824.6" py="5566732.1" pz="1779.87" tx="3470454.9" ty="5567215.8" tz="378.93">
+<ov ov="2" so="1" sm="1" enf="0" file="" tag="0" />
+</c>
+<c id="14512" par="14500" next="0" prev="0" o="7482F6A7-7DA9-D913-6A31-D84C0C8AE954" mn="" so="0" t="" lx="0" ly="0" mf="0" pano="0" appr="1" no="0" htr="1" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="3474753.6" py="5564187.5" pz="1630.69" tx="3474706.7" ty="5564642.5" tz="221.94">
+<ov ov="2" so="1" sm="1" enf="0" file="" tag="0" />
+</c>
+<c id="14513" par="14500" next="0" prev="0" o="8C301E1E-9D6B-8CAB-408F-6B52891B7255" mn="" so="0" t="" lx="0" ly="0" mf="0" pano="0" appr="1" no="0" htr="1" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="3472174.3" py="5566057.7" pz="2047.35" tx="3472068.6" ty="5566820.6" tz="231.93">
+<ov ov="2" so="1" sm="1" enf="0" file="" tag="0" />
+</c>
+<c id="14514" par="14500" next="0" prev="0" o="BBEFC6BD-FFAF-D5EE-995E-ED90903B81EB" mn="" so="0" t="" lx="0" ly="0" mf="0" pano="0" appr="1" no="0" htr="1" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="3477245.2" py="5564997" pz="1854.8" tx="3477188.2" ty="5565549.1" tz="145.5">
+<ov ov="2" so="1" sm="1" enf="0" file="" tag="0" />
+</c>
+<c id="14515" par="14500" next="0" prev="0" o="3D81E45B-C9DD-5AB1-E35E-05D6E92E68E9" mn="" so="0" t="" lx="0" ly="0" mf="0" pano="0" appr="1" no="0" htr="1" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="3474753.3" py="5563706.3" pz="1505.22" tx="3474739.3" ty="5564130.4" tz="198.63">
+<ov ov="2" so="1" sm="1" enf="0" file="" tag="0" />
+</c>
+<c id="14530" par="14510" next="0" prev="0" o="93646AD6-30BF-E26C-A1D4-B903EC683BA1" mn="" so="0" t="" lx="0" ly="0" mf="1" pano="0" appr="1" no="0" htr="1" htx="1" igml="0" fc="0" hn="0" as="0" asao="0" px="3472374.2" py="5564046" pz="995.54" tx="3472666.3" ty="5564577.3" tz="205.42">
+<ov ov="2" so="1" sm="1" enf="0" file="" tag="0" />
+</c>
+<c id="14531" par="14530" next="0" prev="0" o="B71D141C-9EFD-DA8E-4E0B-3D8C11329094" mn="" so="0" t="" lx="0" ly="0" mf="1" pano="0" appr="1" no="0" htr="0" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="3472358.81" py="5564474.58" pz="263.04" tx="3472338.51" ty="5564570.06" tz="183.7">
+</c>
+<c id="14532" par="14530" next="0" prev="0" o="A26729E0-4198-6E25-8648-E6A2243904BD" mn="" so="0" t="" lx="0" ly="0" mf="1" pano="0" appr="1" no="0" htr="0" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="3472561.6" py="5564375.71" pz="270.17" tx="3472626.8" ty="5564484.41" tz="177.5">
+</c>
+<c id="14533" par="14530" next="0" prev="0" o="47349A5A-4582-757F-7E66-D95F0F45AB1F" mn="" so="0" t="" lx="0" ly="0" mf="1" pano="0" appr="1" no="0" htr="0" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="3473050.38" py="5564265.11" pz="326.12" tx="3473181.32" ty="5564530.27" tz="49.82">
+</c>
+<c id="14540" par="14530" next="0" prev="0" o="D991D565-C49D-804C-3817-426F6A7B381B" mn="" so="0" t="" lx="0" ly="0" mf="1" pano="0" appr="1" no="0" htr="1" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="3473159.69" py="5564598.16" pz="631.64" tx="3473023.95" ty="5564933.49" tz="37.48">
+<ov ov="2" so="1" sm="1" enf="0" file="" tag="0" />
+</c>
+<c id="14541" par="14540" next="0" prev="0" o="04809B3E-E58E-8BC4-8531-64DFE9CF0D03" mn="" so="0" t="" lx="0" ly="0" mf="1" pano="0" appr="1" no="0" htr="0" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="3473358.29" py="5564784.71" pz="226.67" tx="3473288.08" ty="5564854.35" tz="167.75">
+</c>
+<c id="14542" par="14540" next="0" prev="0" o="E876BE00-2DC5-2535-F749-32C0CDA859A3" mn="" so="0" t="" lx="0" ly="0" mf="1" pano="0" appr="1" no="0" htr="0" htx="0" igml="0" fc="0" hn="0" as="36" asao="0" px="3472755" py="5564935" pz="236" tx="3472647" ty="5564867" tz="150">
+</c>
+<c id="14543" par="14540" next="0" prev="0" o="72C5E4BF-84DC-8DFE-A610-E36EE144C05E" mn="" so="0" t="" lx="0" ly="0" mf="1" pano="0" appr="1" no="0" htr="0" htx="0" igml="0" fc="0" hn="0" as="36" asao="0" px="3472833.37" py="5564933.35" pz="182" tx="3472850" ty="5564908" tz="166">
+</c>
+<c id="14544" par="14540" next="0" prev="0" o="CB08E951-0484-57FF-A100-E15E15CB12B9" mn="" so="0" t="" lx="0" ly="0" mf="1" pano="0" appr="1" no="0" htr="1" htx="1" igml="0" fc="0" hn="0" as="36" asao="0" px="3472575" py="5564945" pz="200" tx="3472645" ty="5564985" tz="162">
+</c>
+<c id="14545" par="14540" next="0" prev="0" o="A2B3ED44-C99E-C48C-4C0C-5BFE882A07FA" mn="" so="0" t="" lx="0" ly="0" mf="1" pano="0" appr="1" no="0" htr="1" htx="1" igml="0" fc="0" hn="0" as="36" asao="0" px="3473137" py="5564804" pz="189" tx="3473187" ty="5564861" tz="150">
+</c>
+<c id="14546" par="14540" next="0" prev="0" o="1B38430A-7A45-3033-5B24-B8C6C96D4CF8" mn="" so="0" t="" lx="0" ly="0" mf="1" pano="0" appr="1" no="0" htr="1" htx="1" igml="0" fc="0" hn="0" as="0" asao="0" px="3472921.05" py="5564805.45" pz="265.26" tx="3473018.4" ty="5564869.23" tz="150">
+</c>
+<c id="14547" par="14540" next="0" prev="0" o="582AEEFD-B543-D99E-D17C-03E1FBEC7A8B" mn="" so="0" t="" lx="0" ly="0" mf="1" pano="0" appr="1" no="0" htr="0" htx="0" igml="0" fc="0" hn="0" as="36" asao="0" px="3472974.8" py="5564801.19" pz="273.39" tx="3473057.55" ty="5564855.4" tz="175.41">
+</c>
+<c id="14548" par="14547" next="0" prev="0" o="582AEEFD-B543-D99E-D17C-03E1FBEC7A8B" mn="Gesundheitszentrum" so="0" t="flight" lx="-160" ly="-95" mf="0" pano="0" appr="1" no="0" htr="0" htx="0" igml="0" fc="0" hn="0" as="36" asao="0" px="3473006.2" py="5564848.03" pz="169.42" tx="3473050.3" ty="5564872.88" tz="169.42">
+</c>
+<c id="14549" par="14547" next="0" prev="0" o="582AEEFD-B543-D99E-D17C-03E1FBEC7A8B" mn="Bürogebäude" so="0" t="flight" lx="30" ly="-150" mf="0" pano="0" appr="1" no="0" htr="0" htx="0" igml="0" fc="0" hn="0" as="36" asao="0" px="3473149.79" py="5564814.25" pz="169.54" tx="3473078.04" ty="5564904.95" tz="180.7">
+</c>
+<c id="14560" par="14510" next="0" prev="0" o="895D8638-6518-78B1-4B11-F1874A000F5A" mn="" so="0" t="" lx="0" ly="0" mf="1" pano="0" appr="1" no="0" htr="1" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="3473310.6" py="5564785.5" pz="367.61" tx="3473186.8" ty="5565082.8" tz="84.97">
+<ov ov="2" so="1" sm="1" enf="0" file="" tag="0" />
+</c>
+<c id="14561" par="14560" next="0" prev="0" o="F8AE5BB9-173C-6C88-2D0E-F46BDF8EAC8D" mn="" so="0" t="" lx="0" ly="0" mf="1" pano="0" appr="1" no="0" htr="0" htx="0" igml="1" fc="0" hn="0" as="0" asao="0" px="3473135.3" py="5565288.2" pz="194.34" tx="3473127.4" ty="5565336.6" tz="180.59">
+</c>
+<c id="14562" par="14560" next="0" prev="0" o="22E6FC18-25C7-679B-150D-ADE72E84FEBD" mn="" so="0" t="" lx="0" ly="0" mf="1" pano="0" appr="1" no="0" htr="0" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="3473160.3" py="5565213.1" pz="193.4" tx="3473092.1" ty="5565245.5" tz="176.11">
+</c>
+<c id="14563" par="14560" next="0" prev="0" o="DA772225-C986-F31C-9D53-063E496ADB8A" mn="" so="0" t="" lx="0" ly="0" mf="1" pano="0" appr="1" no="0" htr="0" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="3473179.27" py="5565132.87" pz="292.69" tx="3473066.83" ty="5565036.66" tz="147.22">
+</c>
+<c id="14564" par="14563" next="0" prev="0" o="EE06CAE0-1133-EC20-12EA-038FA8B91B21" mn="" so="0" t="" lx="0" ly="0" mf="0" pano="1" appr="1" no="0" htr="0" htx="0" igml="1" fc="0" hn="0" as="0" asao="0" px="3472930.36" py="5565104" pz="199.42" tx="3472966.86" ty="5565063.88" tz="172.69">
+</c>
+<c id="14565" par="14563" next="0" prev="0" o="F349AF21-F8B2-20E5-A969-3247A6060DEC" mn="" so="0" t="" lx="0" ly="0" mf="0" pano="1" appr="1" no="0" htr="0" htx="0" igml="1" fc="0" hn="0" as="0" asao="0" px="3473071.7" py="5565039.1" pz="179.01" tx="3473049" ty="5564996.3" tz="183.39">
+</c>
+<c id="14566" par="14560" next="14567" prev="0" o="9696971E-8FDC-56C2-E9ED-55DF3F2F66D7" mn="" so="0" t="" lx="0" ly="0" mf="1" pano="0" appr="1" no="0" htr="0" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="3473115.61" py="5565211.32" pz="241.59" tx="3473051.46" ty="5565159.22" tz="172.25">
+</c>
+<c id="14567" par="14566" next="0" prev="0" o="9696971E-8FDC-56C2-E9ED-55DF3F2F66D7" mn="Eingangsbereich" so="0" t="flight" lx="0" ly="0" mf="0" pano="1" appr="1" no="0" htr="0" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="3473081.44" py="5565155.42" pz="177.49" tx="3473050.54" ty="5565155.64" tz="177.49">
+</c>
+<c id="14580" par="14510" next="0" prev="0" o="B510A717-FF53-6819-71A2-BAA66E45653E" mn="" so="0" t="" lx="0" ly="0" mf="1" pano="0" appr="1" no="0" htr="1" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="3475028" py="5563735" pz="550" tx="3475176" ty="5564030" tz="60">
+<ov ov="2" so="2" sm="1" enf="0" file="" tag="0" />
+</c>
+<c id="14581" par="14580" next="0" prev="0" o="B510A717-FF53-6819-71A2-BAA66E45653E" mn="" so="0" t="walk" lx="0" ly="0" mf="1" pano="0" appr="1" no="0" htr="0" htx="0" igml="0" fc="240" hn="0" as="36" asao="1" px="3474846.5" py="5564121.1" pz="234.15" tx="3474961.5" ty="5564027" tz="136.31">
+</c>
+<c id="14582" par="14580" next="0" prev="0" o="251499CE-4934-280C-4C13-DD11FF0C5F2D" mn="" so="0" t="" lx="0" ly="0" mf="1" pano="0" appr="1" no="0" htr="0" htx="0" igml="0" fc="0" hn="0" as="36" asao="1" px="3475020" py="5564043" pz="290" tx="3475216" ty="5564047" tz="88">
+</c>
+<c id="14583" par="14580" next="0" prev="0" o="B510A717-FF53-6819-71A2-BAA66E45653E" mn="" so="0" t="walk" lx="0" ly="0" mf="1" pano="0" appr="1" no="0" htr="0" htx="0" igml="0" fc="0" hn="0" as="36" asao="1" px="3475190" py="5563966" pz="264" tx="3475390" ty="5563920" tz="102">
+</c>
+<c id="14584" par="14580" next="0" prev="0" o="B510A717-FF53-6819-71A2-BAA66E45653E" mn="" so="0" t="walk" lx="0" ly="0" mf="1" pano="0" appr="1" no="0" htr="0" htx="0" igml="0" fc="0" hn="0" as="36" asao="1" px="3475232" py="5564112" pz="241" tx="3475374" ty="5564176" tz="116">
+</c>
+<c id="14585" par="14580" next="0" prev="0" o="B510A717-FF53-6819-71A2-BAA66E45653E" mn="" so="0" t="walk" lx="0" ly="0" mf="1" pano="0" appr="1" no="0" htr="0" htx="0" igml="0" fc="0" hn="0" as="36" asao="1" px="3475076" py="5564222" pz="203" tx="3475110" ty="5564104" tz="121">
+</c>
+<c id="14586" par="14580" next="0" prev="0" o="DAF3C92C-6001-4BF2-A3D5-A064E723EB9D" mn="" so="0" t="" lx="0" ly="0" mf="1" pano="0" appr="1" no="0" htr="1" htx="1" igml="0" fc="0" hn="0" as="36" asao="1" px="3475139" py="5564056" pz="197" tx="3475105" ty="5564115" tz="129">
+</c>
+<c id="14587" par="14583" next="0" prev="0" o="7F7996E1-7DA1-46FD-DAFD-6B1E3EF5E7A7" mn="" so="0" t="" lx="0" ly="0" mf="1" pano="0" appr="1" no="0" htr="1" htx="1" igml="0" fc="0" hn="0" as="36" asao="1" px="3475336" py="5564005" pz="212" tx="3475430" ty="5564032" tz="105">
+</c>
+<c id="14590" par="14510" next="14591" prev="0" o="7F0A126F-2893-59CA-83E6-C70804AB53D9" mn="" so="0" t="" lx="0" ly="0" mf="0" pano="0" appr="1" no="0" htr="1" htx="1" igml="0" fc="0" hn="0" as="0" asao="0" px="3472652.44" py="5563994.32" pz="360.92" tx="3472874.84" ty="5564160.07" tz="97.69">
+<hs link="14591" x="3472812.75" y="5564089.77" z="178.00" />
+</c>
+<c id="14591" par="14590" next="14592" prev="14590" o="7F0A126F-2893-59CA-83E6-C70804AB53D9" mn="Haupteingang" so="0" t="flight" lx="0" ly="0" mf="0" pano="1" appr="1" no="0" htr="0" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="3472801.02" py="5564110.39" pz="178" tx="3472816.75" ty="5564082.78" tz="178">
+<hs link="14592" x="3472812.75" y="5564089.77" z="178.00" />
+</c>
+<c id="14592" par="14591" next="14593" prev="14591" o="7F0A126F-2893-59CA-83E6-C70804AB53D9" mn="Eingangshalle" so="0" t="flight" lx="0" ly="0" mf="0" pano="1" appr="1" no="0" htr="0" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="3472820.25" py="5564088.08" pz="178" tx="3472837.2" ty="5564075.59" tz="178">
+</c>
+<c id="14593" par="14592" next="14594" prev="14592" o="7F0A126F-2893-59CA-83E6-C70804AB53D9" mn="Aufnahme" so="0" t="" lx="0" ly="0" mf="0" pano="1" appr="0" no="0" htr="0" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="0" py="0" pz="0" tx="0" ty="0" tz="0">
+</c>
+<c id="14594" par="14593" next="14595" prev="14593" o="7F0A126F-2893-59CA-83E6-C70804AB53D9" mn="Aufnahme PR Leiter" so="0" t="" lx="0" ly="0" mf="0" pano="1" appr="0" no="0" htr="1" htx="1" igml="0" fc="0" hn="0" as="0" asao="0" px="0" py="0" pz="0" tx="0" ty="0" tz="0">
+</c>
+<c id="14595" par="14593" next="14596" prev="14594" o="7F0A126F-2893-59CA-83E6-C70804AB53D9" mn="Aufnahme U/B-Raum" so="0" t="" lx="0" ly="0" mf="0" pano="1" appr="0" no="0" htr="0" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="0" py="0" pz="0" tx="0" ty="0" tz="0">
+</c>
+<c id="14596" par="14592" next="14597" prev="14595" o="7F0A126F-2893-59CA-83E6-C70804AB53D9" mn="Notaufnahme" so="0" t="" lx="0" ly="0" mf="0" pano="1" appr="0" no="0" htr="1" htx="1" igml="0" fc="0" hn="0" as="0" asao="0" px="0" py="0" pz="0" tx="0" ty="0" tz="0">
+</c>
+<c id="14597" par="14596" next="14598" prev="14596" o="7F0A126F-2893-59CA-83E6-C70804AB53D9" mn="Notaufnahme Reanimations-/Schockraum" so="0" t="" lx="0" ly="0" mf="0" pano="1" appr="0" no="0" htr="0" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="0" py="0" pz="0" tx="0" ty="0" tz="0">
+</c>
+<c id="14598" par="14596" next="45901" prev="14597" o="7F0A126F-2893-59CA-83E6-C70804AB53D9" mn="Notaufnahme CT" so="0" t="" lx="0" ly="0" mf="0" pano="1" appr="0" no="0" htr="1" htx="1" igml="0" fc="0" hn="0" as="0" asao="0" px="0" py="0" pz="0" tx="0" ty="0" tz="0">
+</c>
+<c id="45901" par="14592" next="45902" prev="14598" o="7F0A126F-2893-59CA-83E6-C70804AB53D9" mn="Entbindung Kreißsaal" so="0" t="" lx="0" ly="0" mf="0" pano="1" appr="0" no="0" htr="0" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="0" py="0" pz="0" tx="0" ty="0" tz="0">
+</c>
+<c id="45902" par="45901" next="45903" prev="45901" o="7F0A126F-2893-59CA-83E6-C70804AB53D9" mn="Entbindung Rekreationsraum" so="0" t="" lx="0" ly="0" mf="0" pano="1" appr="0" no="0" htr="0" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="0" py="0" pz="0" tx="0" ty="0" tz="0">
+</c>
+<c id="45903" par="45901" next="45911" prev="45902" o="7F0A126F-2893-59CA-83E6-C70804AB53D9" mn="Entbindung Wehenzimmer" so="0" t="" lx="0" ly="0" mf="0" pano="1" appr="0" no="0" htr="0" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="0" py="0" pz="0" tx="0" ty="0" tz="0">
+</c>
+<c id="45911" par="14592" next="45912" prev="45903" o="7F0A126F-2893-59CA-83E6-C70804AB53D9" mn="OP Hybrid-OP" so="0" t="" lx="0" ly="0" mf="0" pano="1" appr="0" no="0" htr="0" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="0" py="0" pz="0" tx="0" ty="0" tz="0">
+</c>
+<c id="45912" par="45911" next="45913" prev="45911" o="7F0A126F-2893-59CA-83E6-C70804AB53D9" mn="OP Patientenschleuse" so="0" t="" lx="0" ly="0" mf="0" pano="1" appr="0" no="0" htr="0" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="0" py="0" pz="0" tx="0" ty="0" tz="0">
+</c>
+<c id="45913" par="45911" next="45921" prev="45912" o="7F0A126F-2893-59CA-83E6-C70804AB53D9" mn="OP Holding" so="0" t="" lx="0" ly="0" mf="0" pano="1" appr="0" no="0" htr="0" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="0" py="0" pz="0" tx="0" ty="0" tz="0">
+</c>
+<c id="45921" par="14592" next="45922" prev="45913" o="7F0A126F-2893-59CA-83E6-C70804AB53D9" mn="Patienten (Privat-Pflege Geriatrie)" so="0" t="" lx="0" ly="0" mf="0" pano="1" appr="0" no="0" htr="0" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="0" py="0" pz="0" tx="0" ty="0" tz="0">
+</c>
+<c id="45922" par="45921" next="45923" prev="45921" o="7F0A126F-2893-59CA-83E6-C70804AB53D9" mn="Patienten (Privat-Pflege)" so="0" t="" lx="0" ly="0" mf="0" pano="1" appr="0" no="0" htr="0" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="0" py="0" pz="0" tx="0" ty="0" tz="0">
+</c>
+<c id="45923" par="45921" next="0" prev="45922" o="7F0A126F-2893-59CA-83E6-C70804AB53D9" mn="Patienten (Standard)" so="0" t="" lx="0" ly="0" mf="0" pano="1" appr="0" no="0" htr="0" htx="0" igml="0" fc="0" hn="0" as="0" asao="0" px="0" py="0" pz="0" tx="0" ty="0" tz="0">
+</c>
+<ot id="87" name="obj_badhom_projects" label="Bad Homburg">
+</ot>
+<ot id="181" name="obj__institutions" label="_Einrichtungen">
+</ot>
+<ot id="56" name="obj__businessparks" label="_Gewerbegebiete">
+</ot>
+<ot id="114" name="obj__counties" label="_Kreise">
+</ot>
+<ot id="115" name="obj__adminregion" label="_Regierungsbezirke">
+</ot>
+<ot id="106" name="obj__cities" label="_Städte/Gemeinden">
+</ot>
+<ot id="180" name="obj__districts" label="_Stadtteile">
+</ot>
+<it id="2" name="inf_address" label="Adressen">
+<if attr="ti" type="title1" so="2" />
+<if attr="a1" type="nolabel" so="12" />
+<if attr="a2" type="nolabel" so="13" />
+<if attr="a3" type="nolabel" so="14" />
+<if attr="a4" type="nolabel" so="15" />
+<if attr="a5" type="nolabel" so="16" />
+<if attr="a6" type="nolabel" so="17" />
+<if type="space20" so="20" />
+<if attr="siteplantitle" type="title2" so="21" />
+<if type="space10" so="23" />
+<if attr="siteplan" type="picture" so="25" />
+<if type="space10" so="28" />
+<if attr="directions" type="text" so="32" />
+<if type="space20" so="35" />
+</it>
+<it id="1" name="inf_description" label="Beschreibung">
+<if attr="title" type="title1" so="2" />
+<if type="space20" so="3" />
+<if attr="pic1" type="picture" so="4" />
+<if attr="cap1" type="caption" so="5" />
+<if attr="cop1" type="caption" so="7" />
+<if type="space10" so="8" />
+<if attr="text1" type="text" so="12" />
+<if attr="url1" type="http" so="13" />
+<if attr="mail1" type="mail" so="14" />
+<if type="space20" so="23" />
+<if attr="pic2" type="picture" so="24" />
+<if attr="cap2" type="caption" so="25" />
+<if attr="cop2" type="caption" so="27" />
+<if type="space10" so="28" />
+<if attr="text2" type="text" so="32" />
+<if attr="url2" type="http" so="33" />
+<if attr="mail2" type="mail" so="34" />
+<if type="space20" so="43" />
+<if attr="pic3" type="picture" so="44" />
+<if attr="cap3" type="caption" so="45" />
+<if attr="cop3" type="caption" so="47" />
+<if type="space10" so="48" />
+<if attr="text3" type="text" so="52" />
+<if attr="url3" type="http" so="53" />
+<if attr="mail3" type="mail" so="54" />
+<if type="space20" so="63" />
+<if attr="pic4" type="picture" so="64" />
+<if attr="cap4" type="caption" so="65" />
+<if attr="cop4" type="caption" so="67" />
+<if type="space10" so="68" />
+<if attr="text4" type="text" so="72" />
+<if attr="url4" type="http" so="73" />
+<if attr="mail4" type="mail" so="74" />
+</it>
+<it id="10" name="inf_picture" label="Bilder">
+</it>
+<it id="5" name="inf_company_profile" label="Firmenprofil">
+<if attr="ti" type="title1" so="1" />
+<if type="space20" so="2" />
+<if attr="fl" type="picture" so="3" />
+<if type="space20" so="4" />
+<if attr="n1" label="Name" type="standard" so="5" />
+<if attr="n2" type="standard" so="6" />
+<if type="space10" so="7" />
+<if attr="hs" label="Hauptsitz" type="standard" so="8" />
+<if attr="rf" label="Rechtsform" type="standard" so="20" />
+<if attr="bf" label="Betriebsform" type="standard" so="21" />
+<if type="space10" so="22" />
+<if attr="lo" type="picture" so="25" />
+<if type="space20" so="30" />
+<if attr="pr" label="Profil" type="text" so="33" />
+<if type="space20" so="34" />
+<if attr="branh" type="title1" so="39" />
+<if type="space10" so="40" />
+<if attr="br" label="Branche" type="text" so="41" />
+<if type="space20" so="42" />
+<if attr="umh" type="title1" so="49" />
+<if type="space10" so="50" />
+<if attr="um" label="Umsatz" type="text" so="51" />
+<if type="space20" so="52" />
+<if attr="prodh" type="title1" so="59" />
+<if type="space10" so="60" />
+<if attr="prod" label="Produkte" type="text" so="61" />
+<if type="space20" so="76" />
+<if attr="bg" label="Beschäftigte gesamt" type="standard" so="77" />
+<if attr="bs" label="Beschäftigte Standort" type="standard" so="78" />
+<if type="space20" so="82" />
+<if attr="freeh" type="title1" so="84" />
+<if type="space10" so="85" />
+<if attr="freetext" type="text" so="87" />
+</it>
+<it id="4" name="inf_site_com" label="Grundstück">
+<if attr="ti" type="title1" so="2" />
+<if attr="name" label="Grundstück" type="standard" so="4" />
+<if attr="baugebiet" label="Baugebiet" type="standard" so="5" />
+<if attr="gemarkung" label="Gemarkung" type="standard" so="6" />
+<if attr="flur" label="Flur" type="standard" so="7" />
+<if attr="flurstueck" label="Flurstück" type="standard" so="8" />
+<if attr="eigentuemer" label="Eigentümer" type="standard" so="11" />
+<if attr="bebauungsplan" label="Bebauungsplan" type="standard" so="12" />
+<if attr="erschliessung" label="Erschließung" type="standard" so="13" />
+<if attr="nutzung" label="Nutzung" type="standard" so="14" />
+<if attr="nutzungbestand" label="Nutzung Bestand" type="standard" so="15" />
+<if attr="nutzungplanung" label="Nutzung Planung" type="standard" so="16" />
+<if attr="groesse" label="Größe" type="standard" so="21" />
+<if attr="baulandbrutto" label="Bauland Brutto" type="standard" so="22" />
+<if attr="baulandnetto" label="Bauland Netto" type="standard" so="23" />
+<if attr="grz" label="GRZ" type="standard" so="26" />
+<if attr="gfz" label="GFZ" type="standard" so="27" />
+<if attr="bmz" label="BMZ" type="standard" so="28" />
+<if attr="geschosszahl" label="Geschosszahl" type="standard" so="31" />
+<if attr="gebaeudehoehe" label="Gebäudehöhe" type="standard" so="32" />
+<if attr="preisproqm" label="Preis / qm" type="standard" so="33" />
+<if attr="preistotal" label="Preis gesamt" type="standard" so="34" />
+<if attr="preisinfo" type="standard" so="39" />
+<if attr="status" label="Status" type="standard" so="58" />
+<if type="space10" so="59" />
+<if attr="text" type="text" so="60" />
+<if type="space10" so="61" />
+</it>
+<it id="9" name="inf_building" label="Immobilie">
+<if attr="ti" type="title1" so="20" />
+<if type="space10" so="21" />
+<if attr="name" type="title2" so="22" />
+<if type="space10" so="23" />
+<if attr="pic1" type="picture" so="40" />
+<if attr="pic2" type="picture" so="41" />
+<if attr="pic3" type="picture" so="42" />
+<if attr="pic4" type="picture" so="43" />
+<if type="space10" so="44" />
+<if attr="lage" label="Lage" type="standard" so="60" />
+<if attr="labe" type="text" so="61" />
+<if type="space10" so="62" />
+<if attr="anoe" label="Anbindung ÖPNV" type="standard" so="100" />
+<if attr="anba" label="Anbindung Bahn" type="standard" so="101" />
+<if attr="anst" label="Anbindung Straße" type="standard" so="102" />
+<if attr="anfl" label="Anbindung Flughafen" type="standard" so="103" />
+<if attr="anha" label="Anbindung Hafen" type="standard" so="104" />
+<if type="space10" so="105" />
+<if attr="gebj" label="Baujahr" type="standard" so="110" />
+<if attr="gelm" label="Letzte Modernisierung" type="standard" so="112" />
+<if attr="gegr" label="Größe des Objekts" type="standard" so="113" />
+<if attr="geaw" label="Anzahl Wohneinheiten" type="standard" so="114" />
+<if attr="geaa" label="Anzahl Aufzüge" type="standard" so="115" />
+<if attr="geet" label="Eigentümer" type="standard" so="120" />
+<if attr="gebe" type="text" so="121" />
+<if type="space10" so="122" />
+<if attr="nutz" label="Nutzung" type="standard" so="130" />
+<if attr="nfla" label="Nutzfläche" type="standard" so="131" />
+<if attr="ntlb" label="Teilbar" type="standard" so="132" />
+<if type="space10" so="133" />
+<if attr="wofl" label="Wohnfläche" type="standard" so="140" />
+<if attr="wtyp" label="Wohnungstyp" type="standard" so="141" />
+<if attr="azge" label="Anzahl Zimmer" type="standard" so="150" />
+<if attr="azsz" label="Anzahl Schlafzimmer" type="standard" so="151" />
+<if attr="azbz" label="Anzahl Badezimmer" type="standard" so="152" />
+<if attr="azab" label="Abstellmöglichkeit" type="standard" so="153" />
+<if attr="audb" label="Dachboden" type="standard" so="160" />
+<if attr="aukl" label="Keller" type="standard" so="162" />
+<if attr="auba" label="Balkon / Terrasse" type="standard" so="163" />
+<if attr="auga" label="Garten" type="standard" so="164" />
+<if attr="augs" label="Garage / Stellplatz" type="standard" so="165" />
+<if attr="auhz" label="Heizungsart" type="standard" so="167" />
+<if attr="auka" label="Klimaanlage" type="standard" so="168" />
+<if type="space10" so="169" />
+<if attr="weta" label="Etage" type="standard" so="180" />
+<if attr="wauf" label="Aufzug" type="standard" so="181" />
+<if attr="wbfr" label="Barrierefrei" type="standard" so="182" />
+<if type="space10" so="183" />
+<if attr="bzus" label="Zustand des Objekts" type="standard" so="190" />
+<if type="space10" so="191" />
+<if attr="auss" type="text" so="192" />
+<if type="space10" so="193" />
+<if attr="besc" type="text" so="194" />
+<if type="space10" so="195" />
+<if attr="aart" label="Art des Angebots" type="standard" so="200" />
+<if attr="pkqm" label="Kaufpreis [pro m²]" type="standard" so="210" />
+<if attr="pkge" label="Kaufpreis [gesamt]" type="standard" so="211" />
+<if attr="pmqm" label="Kaltmiete [pro m²]" type="standard" so="220" />
+<if attr="pmge" label="Kaltmiete [gesamt]" type="standard" so="221" />
+<if attr="pwqm" label="Warmmiete [pro m²]" type="standard" so="230" />
+<if attr="pwge" label="Warmmiete [gesamt]" type="standard" so="231" />
+<if attr="pnqm" label="Nebenkosten [pro m²]" type="standard" so="240" />
+<if attr="pnge" label="Nebenkosten [gesamt]" type="standard" so="241" />
+<if attr="pktn" label="Kaution" type="standard" so="330" />
+<if attr="pprv" label="Provision" type="standard" so="331" />
+<if type="space10" so="332" />
+<if attr="avfg" label="verfügbar ab" type="standard" so="400" />
+<if type="space10" so="401" />
+<if attr="ainf" type="text" so="500" />
+<if type="space10" so="501" />
+<if attr="link" type="http" so="600" />
+</it>
+<it id="8" name="inf_imprint" label="Impressum">
+<if attr="ti" type="title1" so="1" />
+<if type="space20" so="2" />
+<if attr="pic" type="picture" so="3" />
+<if attr="name" type="nolabel" so="4" />
+<if attr="form" type="nolabel" so="5" />
+<if attr="str" type="nolabel" so="7" />
+<if attr="zici" type="nolabel" so="8" />
+<if type="space20" so="9" />
+<if attr="ph" label="Telefon" type="nolabel" so="10" />
+<if attr="fax" label="Fax" type="nolabel" so="11" />
+<if attr="mail" type="mailnolabel" so="12" />
+<if attr="web" type="httpnolabel" so="13" />
+<if attr="web2" type="httpnolabel" so="14" />
+<if type="space20" so="16" />
+<if attr="dir" type="nolabel" so="17" />
+<if type="space20" so="18" />
+<if attr="reg" label="Handelsregister" type="nolabel" so="19" />
+<if attr="vat" label="Ust-Ident-Nummer" type="nolabel" so="20" />
+<if attr="rp" label="inhaltl. Verantwortlicher" type="nolabel" so="21" />
+<if type="space20" so="22" />
+<if attr="sourcegeodata" label="Geodatenquelle" type="text" so="25" />
+<if type="space10" so="26" />
+<if attr="sourceinfo" label="Informationsquelle" type="text" so="27" />
+<if type="space10" so="28" />
+<if attr="copyright" label="Copyright" type="text" so="29" />
+<if type="space20" so="30" />
+<if attr="note" label="Hinweis" type="text" so="31" />
+</it>
+<it id="3" name="inf_contact" label="Kontaktdaten">
+<if attr="ti" type="title1" so="1" />
+<if type="space20" so="2" />
+<if attr="pic" type="picture" so="3" />
+<if attr="fn" type="nolabel" so="4" />
+<if attr="pos" type="nolabel" so="5" />
+<if attr="comp" type="nolabel" so="6" />
+<if attr="cext" type="nolabel" so="7" />
+<if attr="dep" type="nolabel" so="8" />
+<if type="space10" so="10" />
+<if attr="a2" type="nolabel" so="12" />
+<if attr="a3" type="nolabel" so="13" />
+<if attr="a4" type="nolabel" so="14" />
+<if attr="a5" type="nolabel" so="15" />
+<if attr="a6" type="nolabel" so="16" />
+<if type="nolabel" so="19" />
+<if attr="p1" label="Telefon" type="nolabel" so="21" />
+<if attr="p2" label="Telefon (zus.)" type="nolabel" so="22" />
+<if attr="cell" label="Mobil" type="nolabel" so="23" />
+<if attr="fax" label="Fax" type="nolabel" so="24" />
+<if attr="mail" type="mailnolabel" so="25" />
+<if attr="url" type="httpnolabel" so="26" />
+<if attr="url2" type="httpnolabel" so="27" />
+<if type="space20" so="28" />
+<if attr="openinghours" type="text" so="32" />
+<if attr="contactinfo" type="text" so="33" />
+<if attr="description" type="text" so="35" />
+</it>
+<it id="11" name="inf_link" label="Links">
+</it>
+<it id="6" name="inf_citydata" label="Strukturdaten">
+<if attr="ti" type="title1" so="2" />
+<if attr="name" label="Name" type="title2" so="3" />
+<if type="space20" so="6" />
+<if attr="title0" type="title2" so="7" />
+<if type="space10" so="8" />
+<if attr="bges" label="Bevölkerung gesamt" type="standard" so="9" />
+<if attr="bfla" label="Gemarkungsfläche" type="standard" so="10" />
+<if attr="abwo" label="soz.vers.pfl. Einwohner" type="standard" so="11" />
+<if attr="abar" label="soz.vers. Arbeitnehmer" type="standard" so="12" />
+<if attr="kkzi" label="Kaufkraftkennziffer" type="standard" so="13" />
+<if attr="stsgw" label="Hebesatz Gewerbest." type="standard" so="14" />
+<if type="space20" so="15" />
+<if attr="title1" type="title2" so="30" />
+<if type="space10" so="31" />
+<if attr="bfla" label="Gemarkungsfläche" type="standard" so="32" />
+<if attr="bges" label="Bevölkerung gesamt" type="standard" so="34" />
+<if attr="b6" label="unter 6 Jahren" type="standard" so="36" />
+<if attr="b15" label="unter 15 Jahren" type="standard" so="37" />
+<if attr="b65" label="unter 65 Jahren" type="standard" so="39" />
+<if attr="b99" label="über 65 Jahre" type="standard" so="40" />
+<if attr="bd" label="Bevölkerungsdichte" type="standard" so="41" />
+<if type="space20" so="49" />
+<if attr="title2" type="title2" so="50" />
+<if type="space10" so="51" />
+<if attr="stges" label="Steuereinnahmen ges." type="standard" so="52" />
+<if attr="stgem" label="Gemeindeanteil" type="standard" so="53" />
+<if attr="stgew" label="Gewerbesteuer" type="standard" so="54" />
+<if attr="stgru" label="Grundsteuer" type="standard" so="55" />
+<if attr="stsgw" label="Hebesatz Gewerbest." type="standard" so="57" />
+<if attr="stsga" label="Hebesatz Grundst. A" type="standard" so="58" />
+<if attr="stsgb" label="Hebesatz Grundst. B" type="standard" so="60" />
+<if type="space20" so="69" />
+<if attr="title3" type="title2" so="70" />
+<if type="space10" so="71" />
+<if attr="abar" label="soz.vers. Arbeitnehmer" type="standard" so="74" />
+<if attr="afor" label="Forstwirtschaft" type="standard" so="82" />
+<if attr="agew" label="Gewerbe" type="standard" so="83" />
+<if attr="ahan" label="Handel" type="standard" so="84" />
+<if attr="afin" label="Finanzen" type="standard" so="85" />
+<if attr="adie" label="Dienstleistung" type="standard" so="89" />
+<if attr="abwo" label="soz.vers.pfl. Einwohner" type="standard" so="90" />
+<if attr="aein" label="Einpendler" type="standard" so="91" />
+<if attr="aaus" label="Auspendler" type="standard" so="92" />
+<if type="space20" so="99" />
+<if attr="title4" type="title2" so="100" />
+<if type="space10" so="101" />
+<if attr="tbet" label="Betten" type="standard" so="102" />
+<if attr="tank" label="Ankünfte" type="standard" so="104" />
+<if attr="tueb" label="Übernachtungen" type="standard" so="106" />
+<if attr="tauf" label="Ø Aufenthaltsdauer" type="standard" so="109" />
+<if attr="kges" label="Kaufkraft insg." type="standard" so="122" />
+<if attr="kein" label="je Einwohner" type="standard" so="124" />
+<if attr="kkzi" label="Kaufkraftkennziffer" type="standard" so="129" />
+<if attr="kehz" label="Einzelhandelszentralität" type="standard" so="130" />
+<if type="space20" so="999" />
+<if attr="stand" label="Stand" type="standard" so="1000" />
+<if attr="quelle" label="Quelle" type="standard" so="1001" />
+</it>
+<it id="7" name="inf_video" label="Video">
+</it>
+<st id="1" hit="all" vis="1" visover="1" textout="0x000000" textover="0xFFFFFF" bgout="0x333333" bgover="0x3b4e7c" bgcol="1" pos="automatic" size="12" zmove="bottom" scout="0xFFFFFF" saout="0" scover="0xFFFFFF" saover="60" ocout="0xFFFFFF" oaout="0" ocover="0x333333" oaover="100" r="1" />
+<st id="2" hit="shape" vis="0" visover="0" textout="0x000000" textover="0xFFFFFF" bgout="0x333333" bgover="0x3b4e7c" bgcol="1" pos="automatic" size="12" zmove="top" scout="0xFFFFFF" saout="0" scover="0xFFFFFF" saover="40" ocout="0xFFFFFF" oaout="0" ocover="0xFFFFFF" oaover="80" r="2" />
+<st id="3" hit="all" vis="0" visover="0" textout="0x000000" textover="0xFFFFFF" bgout="0x000000" bgover="0x3b4e7c" bgcol="1" pos="automatic" size="12" zmove="top" scout="0xFFFFFF" saout="0" scover="0xFFFFFF" saover="0" ocout="0x000000" oaout="0" ocover="0x000000" oaover="0" r="3" />
+<st id="12" hit="shape" vis="0" visover="1" textout="0x000000" textover="0xFFFFFF" bgout="0x333333" bgover="0x3b4e7c" bgcol="1" pos="automatic" size="12" zmove="top" scout="0xFF3300" saout="75" scover="0xFFFFFF" saover="90" ocout="0x333333" oaout="100" ocover="0x333333" oaover="100" r="12" />
+<st id="34" hit="inscription" vis="1" visover="1" textout="0x000000" textover="0xFFFFFF" bgout="0x000000" bgover="0x3b4e7c" bgcol="1" pos="automatic" size="12" zmove="top" scout="0xFFFFFF" saout="0" scover="0xFFFFFF" saover="0" ocout="0xFFFFFF" oaout="0" ocover="0xFFFFFF" oaover="0" r="34" />
+<st id="36" hit="inscription" vis="1" visover="1" textout="0x000000" textover="0xFFFFFF" bgout="0x333333" bgover="0x3b4e7c" bgcol="1" pos="buildingtop" size="12" zmove="top" scout="0x000000" saout="0" scover="0x000000" saover="0" ocout="0x000000" oaout="0" ocover="0x000000" oaover="0" r="36" />
+<st id="56" hit="shape" vis="0" visover="1" textout="0x000000" textover="0xFFFFFF" bgout="0x333333" bgover="0x3b4e7c" bgcol="1" pos="automatic" size="12" zmove="top" scout="0xFF9900" saout="40" scover="0xFFFFFF" saover="40" ocout="0x333333" oaout="100" ocover="0x333333" oaover="100" r="12" />
+<st id="67" hit="all" vis="1" visover="1" textout="0x000000" textover="0xFFFFFF" bgout="0x000000" bgover="0x3b4e7c" bgcol="1" pos="automatic" size="12" zmove="top" scout="0xFF6600" saout="40" scover="0xFFFFFF" saover="40" ocout="0x333333" oaout="100" ocover="0x333333" oaover="100" r="28" />
+<st id="68" hit="all" vis="1" visover="1" textout="0x000000" textover="0xFFFFFF" bgout="0x000000" bgover="0x3b4e7c" bgcol="1" pos="automatic" size="12" zmove="top" scout="0xED132C" saout="40" scover="0xFFFFFF" saover="40" ocout="0x333333" oaout="100" ocover="0x333333" oaover="100" r="29" />
+<st id="80" hit="all" vis="1" visover="1" textout="0x000000" textover="0xFFFFFF" bgout="0x000000" bgover="0x3b4e7c" bgcol="1" pos="automatic" size="12" zmove="top" scout="0x339900" saout="40" scover="0xFFFFFF" saover="40" ocout="0x333333" oaout="100" ocover="0x333333" oaover="100" r="27" />
+<ov id="2" name="Verkehrsanbindungen" icon="traffic" />
+<ov id="43" name="politische Grenzen" icon="standard" />
+</sb>

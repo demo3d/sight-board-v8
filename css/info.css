@@ -1,0 +1,41 @@
+body 
+{ 
+        margin: 0px; 
+        padding: 0px; 
+        background-color: #333333;
+}
+
+div.info {
+        width:360px;
+        margin: 0px;
+        padding: 0px;
+}
+
+.info h1 {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        color: #FFFFFF;
+        text-decoration: none; 
+        font-weight: bold; 
+        margin: 0px;
+        padding: 0px;
+}
+
+.info p {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        color: #FFFFFF;
+        text-decoration: none; 
+        margin: 0px;
+        padding: 0px;
+}
+
+.info a:link, .info a:visited  {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        color: #FFFFFF;
+        text-decoration: none;    
+}
+.info a:focus, .info a:hover, .info a:active {
+        color: #999999;  
+}

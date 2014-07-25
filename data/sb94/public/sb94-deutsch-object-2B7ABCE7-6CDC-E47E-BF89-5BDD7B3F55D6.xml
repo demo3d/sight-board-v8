@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<o table="87" id="2B7ABCE7-6CDC-E47E-BF89-5BDD7B3F55D6" language="deutsch" timestamp="2014-06-06 16:22:58">
+<id table="2" name="inf_address">
+<i id="7E6A451D-75AA-968F-792E-3CBFA74B8F19" ti="Adresse der Liegenschaft" ac="1" so="2" us="always" o="2B7ABCE7-6CDC-E47E-BF89-5BDD7B3F55D6" a3="Hewlett-Packard-Straße 1" a5="61352 Bad Homburg vor der Höhe" siteplan_width="0" siteplan_height="0" siteplanb_width="0" siteplanb_height="0">
+<directions><![CDATA[]]></directions>
+</i>
+</id>
+<id table="1" name="inf_description">
+<i id="36EA7623-DD2E-A70F-5C65-6CA8F0C34B91" title="Hewlett Packard" ac="1" so="0" us="always" o="2B7ABCE7-6CDC-E47E-BF89-5BDD7B3F55D6" pic1_width="0" pic1_height="0" pic1b_width="0" pic1b_height="0" pic2_width="0" pic2_height="0" pic2b_width="0" pic2b_height="0" pic3_width="0" pic3_height="0" pic3b_width="0" pic3b_height="0" pic4_width="0" pic4_height="0" pic4b_width="0" pic4b_height="0">
+<text1><![CDATA[Hewlett Packard, eines der größten US-amerikanischen Technologieunternehmen, siedelte sich im Jahr 1984 mit einer Vertriebsniederlassung im südwestlichen Bereich des Südcampus in Bad Homburg an. Rund 1.500 Beschäftigte sind hier tätig. Der Standort dient zudem als einer von fünf deutschen HP-Studien- und Ausbildungsorten.]]></text1>
+<text2><![CDATA[]]></text2>
+<text3><![CDATA[]]></text3>
+<text4><![CDATA[]]></text4>
+</i>
+</id>
+</o>

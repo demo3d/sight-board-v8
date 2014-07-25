@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<o table="87" id="A2B3ED44-C99E-C48C-4C0C-5BFE882A07FA" language="deutsch" timestamp="2014-06-06 16:22:57">
+<id table="1" name="inf_description">
+<i id="CA85BF1B-CC48-E8D7-52FB-5BD478E0A41A" title="Hauptverwaltung Dimension Data" ac="1" so="0" us="always" o="A2B3ED44-C99E-C48C-4C0C-5BFE882A07FA" pic1="dimensiondata.jpg" pic1_width="360" pic1_height="356" pic1b_width="0" pic1b_height="0" pic2_width="0" pic2_height="0" pic2b_width="0" pic2b_height="0" pic3_width="0" pic3_height="0" pic3b_width="0" pic3b_height="0" pic4_width="0" pic4_height="0" pic4b_width="0" pic4b_height="0">
+<text1><![CDATA[Grundstück: 4.686 m²
+BGF (oberirdisch): 6.594 m²
+Stellplätze: 60 Außenstellplätze / 90 Stellplätze in der Tiefgarage 
+Baubeginn: 01/2013 
+Fertigstellung: 03/2014 
+Architekten: msm meyer schmitz-morkramer, Frankfurt 
+]]></text1>
+<text2><![CDATA[]]></text2>
+<text3><![CDATA[]]></text3>
+<text4><![CDATA[]]></text4>
+</i>
+</id>
+<id table="3" name="inf_contact">
+<i id="A950F2BC-531A-6AFD-10CE-0E3A079E3173" ti="Kontakt" ac="1" so="999" us="always" o="A2B3ED44-C99E-C48C-4C0C-5BFE882A07FA" fn="Nicolas Schneider" comp="Lang &amp; Cie. Real Estate AG" p1="+49 (0) 69 7953889-22" mail="nschneider@langundcie.de" url="http://www.langundcie.de" a3="Siesmayerstraße 25" a5="60323 Frankfurt am Main" pic_width="0" pic_height="0">
+<openinghours><![CDATA[]]></openinghours>
+<contactinfo><![CDATA[]]></contactinfo>
+<description><![CDATA[]]></description>
+</i>
+</id>
+</o>
